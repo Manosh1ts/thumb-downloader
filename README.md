@@ -27,7 +27,7 @@ Este projeto já está compilado como um arquivo executável, então não é nec
 
 ## Screenshots
 
-![Screenshot do programa](link-da-imagem.jpg)
+![Screenshot do programa](https://github.com/Manosh1ts/thumb-downloader/blob/main/preeviw.png)
 
 ## Créditos
 
